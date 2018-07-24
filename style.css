@@ -21,7 +21,7 @@ h1{
 h2{
     text-align:center;
 }
-p {
+p { width:50%;
     margin-left:200px;
     margin-right:200px;
 }
