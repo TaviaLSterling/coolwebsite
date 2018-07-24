@@ -36,5 +36,6 @@ span{
     display:inline;
 }
 img{
-    margin-left:700px;
+    float:right;
+    margin-right:40px;
 }
